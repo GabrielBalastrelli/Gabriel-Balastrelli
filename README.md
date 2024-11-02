@@ -1,2 +1,2 @@
-![Minha Capa](th.jpeg)
+ ![My Profile Banner](th.jpeg)
 # Gabriel-Balastrelli
